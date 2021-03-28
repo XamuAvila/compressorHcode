@@ -1,0 +1,20 @@
+{
+  "name": "compressorHcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XamuAvila/compressorHcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XamuAvila/compressorHcode/issues"
+  },
+  "homepage": "https://github.com/XamuAvila/compressorHcode#readme"
+}
